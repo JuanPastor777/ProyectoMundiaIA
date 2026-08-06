@@ -50,3 +50,9 @@ Ejemplos sugeridos a probar:
 3. "Genera un reporte del Grupo A" → debe usar `generar_reporte_grupo` y mostrar posiciones.
 4. "¿Cuál es la capital de Francia?" → debe rechazar la pregunta por no estar relacionada con el torneo.
 5. Preguntar por una selección que no existe en el seed → debe indicar que no hay información registrada, sin inventar datos.
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
